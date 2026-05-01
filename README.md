@@ -1,2 +1,7 @@
-# Players-list
-players name and score
+team name:
+    Cyber 
+Project Title:
+     Players-list
+project objective:
+
+
